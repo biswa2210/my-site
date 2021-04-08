@@ -26,8 +26,12 @@ my-site
          └── mountain.png
 
 ```
+## Screenshots
+<div align="center">
+<a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a> <a href="my2.PNG"><img src="my2.PNG" width="400" height= "250"></a>
 
- 
-# my-site
+<a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a>
+</div>
+# Making
 I have user HTML5, CSS3 to make this site.
 
