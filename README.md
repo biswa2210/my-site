@@ -1,17 +1,25 @@
-# MY-SITE
-## This new website is created by Biswarup Bhattacharjee, student of BTECH, of University of Engineering and Management, Kolkata.
-## Email Id: bbiswa471@gmail.com. 
-## Contact No: 916290272740. 
-## About 
+# MY-SITE :star_struck:
+
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) 
+
+***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+
+**Email Id: bbiswa471@gmail.com.** 
+
+**Contact No: 916290272740.** 
+
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
+
+## About :point_down: 
 This is a simple introductory page of BISWARUP BHATTACHARJEE made by himself.
-This page conveys his skills which are programming and liking spicy dishes.
-This page also contains some contact details of him like Facebook or GitHub account link.
-## LINK : https://biswa2210.github.io/my-site/
-## Purpose
+This page conveys my skills which are programming and liking spicy dishes.
+This page also contains some of my contact details like Facebook or GitHub account or email.
+## LINK : :point_right: https://biswa2210.github.io/my-site/
+## Purpose :point_down:
 I have made this to enlist my skills and by this page people can know my qualities.
-## Importance
+## Importance :point_down:
  This page shows my skills and contact details. So, it is good way to get in touch with people .
-## Folder Structure
+## Folder Structure :point_down:
 ```bash
 my-site
    ├── index.html
@@ -25,13 +33,13 @@ my-site
          ├── favicon.ico
          └── mountain.png
 
-```
-## Screenshots
+```                  
+## Making :point_down:
+I have created this page using HTML5, CSS3.
+## Screenshots :point_down: 
 <div align="center">
 <a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a> <a href="my2.PNG"><img src="my2.PNG" width="400" height= "250"></a>
 
 <a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a>
 </div>
-# Making
-I have user HTML5, CSS3 to make this site.
 
