@@ -1,8 +1,8 @@
-# MY-SITE :star_struck:
+# MY-SITE :star_struck: :relieved: :sunglasses:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) 
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web page named 'My-Site' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -11,15 +11,21 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-This is a simple introductory page of BISWARUP BHATTACHARJEE made by himself.
-This page conveys my skills which are programming and liking spicy dishes.
-This page also contains some of my contact details like Facebook or GitHub account or email.
+
+This is a simple introductory page of BISWARUP BHATTACHARJEE made by himself. This page conveys my skills which are programming and liking spicy dishes. This page also contains some of my contact details like Facebook or GitHub account or email.
+
 ## LINK : :point_right: https://biswa2210.github.io/my-site/
+
 ## Purpose :point_down:
+
 I have made this to enlist my skills and by this page people can know my qualities.
+
 ## Importance :point_down:
- This page shows my skills and contact details. So, it is good way to get in touch with people .
+
+ This page shows my skills and contact details. So, it is good way to get in touch with people.
+ 
 ## Folder Structure :point_down:
+
 ```bash
 my-site
    ├── index.html
@@ -35,11 +41,14 @@ my-site
 
 ```                  
 ## Making :point_down:
-I have created this page using HTML5, CSS3.
-## Screenshots :point_down: 
-<div align="center">
-<a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a> <a href="my2.PNG"><img src="my2.PNG" width="400" height= "250"></a>
 
-<a href="my1.PNG"><img src="my1.PNG" width="400" height= "250"></a>
+I have created this page using HTML5, CSS3.
+
+## Screenshots :point_down: 
+
+<div align="center">
+<a href="my1.PNG"><img src="my1.PNG" width="400" height= "300"></a> <a href="my2.PNG"><img src="my2.PNG" width="400" height= "300"></a>
+
+<a href="my1.PNG"><img src="my1.PNG" width="800" height= "300"></a>
 </div>
 
