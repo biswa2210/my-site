@@ -19,6 +19,10 @@
 
 This is a simple introductory page of BISWARUP BHATTACHARJEE made by himself. This page conveys my skills which are programming and liking spicy dishes. This page also contains some of my contact details like Facebook or GitHub account or email.
 
+## MY WEBSITE DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=AR8adLrAJbY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=2">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK : :point_right: https://biswa2210.github.io/my-site/
 
 ## Purpose :point_down:
